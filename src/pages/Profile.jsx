@@ -180,7 +180,7 @@ const Profile = () => {
           ) : filePerc > 0 && filePerc < 100 ? (
             <span className='text-slate-700'>{`Uploading ${filePerc}%`}</span>
           ) : filePerc === 100 ? (
-            <span className='text-green-700'>Image successfully uploaded!</span>
+            <span className='text-green-700 font-bold'>Image successfully uploaded!</span>
           ) : (
             ''
           )}
@@ -205,7 +205,7 @@ const Profile = () => {
         </span>
         <span 
           onClick={handleSignOut} 
-          className='text-red-700 cursor-pointer'>
+          className='text-red-500 cursor-pointer'>
           Sign out
         </span>
       </div>
