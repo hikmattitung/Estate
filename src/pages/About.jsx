@@ -15,7 +15,7 @@ const About = () => {
         Our mission is to help clients achieve their real estate goals by
         providing expert guidance, transparent service, and strong knowledge
         of the local property market. We focus on making property buying and
-        selling simple and stress-free. sdadadadad
+        selling simple and stress-free. sdadadadadasdsadsadasd
       </p>
 
       <p className="mb-4 text-slate-600">
