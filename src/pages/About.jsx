@@ -21,7 +21,7 @@ const About = () => {
       <p className="mb-4 text-slate-600">
         Our experienced team is committed to delivering high-quality service.
         We believe real estate should be a smooth and rewarding journey forcdasd
-        every client we work with. This much for today we can fix later okay?? asaddsaadddddadcxfdasdasdsdsddfssasasasacddfffsfsfxcdaddacfdxcdasdxcx
+        every client we work with. This much for today we can fix later okay?? asaddsaadddddadcxfdasdasdsdsddfssasaxzxzxzxzsasacddfffsfsfxcdaddacfdxcdasdxcx
       </p>
     </div>
   );
